@@ -22,7 +22,10 @@ Summary:
 2. Second key differences between the months of June and December is that there are significantly 200 more data points in June than in December, wheere these missing data points could have a significant impact on outcome, but it is currently unknown
 3. Third key differences between the months of June and December is that 
 
-![]()
-![]()
+![](Dec.png)
+
+
+![](June.png)
+
 
 In conclusion, the analysis performed in this report focuses on temperatures of the island. Based on the information obtained, those temperatures are steadily on average between 71 degrees during its coldest month, and 75 degrees on its hottest month. These temperature points are usually what people consider favorable and steady weather year round. This is what makes the business setting perfect because money can be made year round easily from this surf and ice-cream shop idea. 
