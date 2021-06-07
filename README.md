@@ -17,9 +17,9 @@ There were three key observations made regarding the differences between the tem
 3. Third key differences between the months of June and December is that there is literally a 2-4 degree difference between June and decembers mean, 25%, 50%, 75%, and maximum temperatures. with June being the higher temperature. 
 
 
-![](Dec.png)      
+![](Photos/Dec.png)      
 
-![](June.png)
+![](Photos/June.png)
 
 ## Conclusion
 In conclusion, the analysis performed in this report focuses on temperatures of the island and how well these temperatures can remain favorable to potential customers around. Based on the information obtained, those temperatures are steadily on average between 71 degrees during its coldest month, and 75 degrees on its hottest month. Fluctuations between these months, both on average and 75% of the time only fluctuated by 3 degrees of 74 - 77 degrees between the two months. Overall, these temperature points are usually what people consider favorable and steady weather year round, pointing to an environment for a very successful business.
