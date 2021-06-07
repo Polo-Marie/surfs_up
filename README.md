@@ -24,4 +24,4 @@ There were three key observations made regarding the differences between the tem
 ## Conclusion
 In conclusion, the analysis performed in this report focuses on temperatures of the island and how well these temperatures can remain favorable to potential customers around. Based on the information obtained, those temperatures are steadily on average between 71 degrees during its coldest month, and 75 degrees on its hottest month. Fluctuations between these months, both on average and 75% of the time only fluctuated by 3 degrees of 74 - 77 degrees between the two months. Overall, these temperature points are usually what people consider favorable and steady weather year round, pointing to an environment for a very successful business.
 
-If we wanted to dig a little deeper, two other queries that could be performed 
+If we wanted to dig a little deeper, two other queries that could be performed are of the temperature and precipitation against the elevation and also against the latitude and longitude, in effort to see if there is a change in the measurements as a result. 
